@@ -1,0 +1,3 @@
+enum DomainTag {
+    REGULAR_EXP, STRING, UNKNOWN, END_OF_PROGRAM
+}
